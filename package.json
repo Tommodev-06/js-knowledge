@@ -1,0 +1,23 @@
+{
+  "name": "js-knowledge",
+  "version": "1.0.0",
+  "description": "A useless package that prints into the console something equally useless for developers, but useful for skidders.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tommodev-06/js-knowledge.git"
+  },
+  "keywords": [
+    "[\"js-knowledge\"",
+    "\"knowledge\"]"
+  ],
+  "author": "[\"Tommodev\", \"NotReallyEight\", \"cristiangrossano\"]",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tommodev-06/js-knowledge/issues"
+  },
+  "homepage": "https://github.com/Tommodev-06/js-knowledge#readme"
+}
