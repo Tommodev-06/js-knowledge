@@ -1,6 +1,6 @@
 {
   "name": "js-knowledge",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A useless package that prints into the console something equally useless for developers, but useful for skidders.",
   "main": "index.js",
   "scripts": {
@@ -11,10 +11,14 @@
     "url": "git+https://github.com/Tommodev-06/js-knowledge.git"
   },
   "keywords": [
-    "[\"js-knowledge\"",
-    "\"knowledge\"]"
+    "js-knowledge",
+    "knowledge"
   ],
-  "author": "[\"Tommodev\", \"NotReallyEight\", \"cristiangrossano\"]",
+  "author": "Tommodev",
+  "contributors": [
+    "NotReallyEight",
+    "cristiangrossano"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Tommodev-06/js-knowledge/issues"
