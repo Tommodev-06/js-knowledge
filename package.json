@@ -11,10 +11,14 @@
     "url": "git+https://github.com/Tommodev-06/js-knowledge.git"
   },
   "keywords": [
-    "[\"js-knowledge\"",
-    "\"knowledge\"]"
+    "js-knowledge",
+    "knowledge"
   ],
-  "author": "[\"Tommodev\", \"NotReallyEight\", \"cristiangrossano\"]",
+  "author": "Tommodev",
+  "contributors": [
+    "NotReallyEight",
+    "cristiangrossano"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Tommodev-06/js-knowledge/issues"
